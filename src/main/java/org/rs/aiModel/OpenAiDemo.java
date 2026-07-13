@@ -1,4 +1,4 @@
-package org.rs.chatmodel;
+package org.rs.aiModel;
 
 import dev.langchain4j.model.chat.ChatModel;
 import dev.langchain4j.model.openai.OpenAiChatModel;
